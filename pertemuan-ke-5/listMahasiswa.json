@@ -1,0 +1,20 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 180823453,
+      "Nama": "Mahasiswa 1",
+      "Alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "Hp": "0818021313",
+      "Angkatan": "2018",
+      "Status": "aktif"
+    },
+    {
+      "NIM": "1741720078",
+      "Nama": "Muhammad Fakhryan Zulfahmi",
+      "Alamat": "Kediri",
+      "Hp": "085608700087",
+      "Angkatan": "2017",
+      "Status": "Aktif"
+    }
+  ]
+}

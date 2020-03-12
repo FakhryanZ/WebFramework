@@ -1,0 +1,52 @@
+.text-center{
+    text-align: center;
+}
+
+.btnLogin{
+    background-color: #4caf50;
+    width: 300px;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin-top: 1em;
+}
+.title{
+    margin-bottom: 3em;
+}
+.checkbox{
+    margin-top: 1em;
+}
+
+.checkbox{
+    margin-top: 1em;
+}
+
+.btnCancel {
+    background-color: #f44336;
+    width: 100px;
+    color: white;
+    border: none;
+    padding: 15px 15px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 1em;
+}
+
+.form-area{
+    border: 1px solid;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+}
+
+label{
+    padding: 15px 15px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 1em;
+}
+
+h3{
+    font-weight: bold;
+}
